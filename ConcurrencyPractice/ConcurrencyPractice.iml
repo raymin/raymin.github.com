@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-collections/commons-collections/3.2/jar/f951934aa5ae5a88d7e6dfaa6d32307d834a88be/commons-collections-3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-collections/commons-collections/3.2/source/73d0340eaecbb0ec9d3e0ace90547ef08cbfaf27/commons-collections-3.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-logging/commons-logging/1.1.3/jar/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-logging/commons-logging/1.1.3/source/28bb0405fddaf04f15058fbfbe01fe2780d7d3b6/commons-logging-1.1.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-codec/commons-codec/1.9/jar/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-codec/commons-codec/1.9/source/3f15fff45d57656685abfee9e8302bf14580044c/commons-codec-1.9-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/log4j/log4j/1.2.17/bundle/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/log4j/log4j/1.2.17/source/677abe279b68c5e7490d6d50c6951376238d7d3e/log4j-1.2.17-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-core/3.2.5.RELEASE/jar/6746563c9814d8e1578a2c6e85da1bdbc69921cb/spring-core-3.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-core/3.2.5.RELEASE/source/af64387db82235a44547cb21b473e41b8be243a8/spring-core-3.2.5.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-web/3.2.5.RELEASE/jar/b22389b536143f55ed230bc1199a6cd0b8639f4/spring-web-3.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-web/3.2.5.RELEASE/source/9fe6e439ec44451cf7361913c4c288d371906439/spring-web-3.2.5.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-webmvc/3.2.5.RELEASE/jar/dfa956a8585d5975ea8826330333da736ee0836f/spring-webmvc-3.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-webmvc/3.2.5.RELEASE/source/ea68e197a09daa9ef998180f7a308ecad1fe9b3e/spring-webmvc-3.2.5.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-context-support/3.2.5.RELEASE/jar/5731e3d76b57c80d557c4b3d7cce4750ce8d2102/spring-context-support-3.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-context-support/3.2.5.RELEASE/source/77539134046b59d2fb9b8acbc17cb026b2f92384/spring-context-support-3.2.5.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.servlet/servlet-api/2.5/jar/5959582d97d8b61f4d154ca9e495aafd16726e34/servlet-api-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.servlet/servlet-api/2.5/source/21599814ad9a605b86f3e6381571beccd861a32/servlet-api-2.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-all/1.2.6/jar/b835288d885575f844648d23a493eff70ab2505a/xfire-all-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-all/1.2.6/source/b002ffe06c82b95f21242432e84a02a3ba89ad00/xfire-all-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/aopalliance/aopalliance/1.0/jar/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/aopalliance/aopalliance/1.0/source/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-beans/3.2.5.RELEASE/jar/262e05c6d10299eaa97f177451f372db19daae15/spring-beans-3.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-beans/3.2.5.RELEASE/source/38aba7281d88c1442007bc6406b22995b0b31f73/spring-beans-3.2.5.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-aop/3.2.5.RELEASE/jar/4c6b62278fda29944bce501505f4098020fe389d/spring-aop-3.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-aop/3.2.5.RELEASE/source/13bb413bd01b1cab2454085a0b48222e4415ac83/spring-aop-3.2.5.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-expression/3.2.5.RELEASE/jar/2c24bdd3a6c8d6bf90efbd3b6f9e9441a57f8c7a/spring-expression-3.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-expression/3.2.5.RELEASE/source/7f392a56a27f1e9b2a6db223e71feefe1e13d81b/spring-expression-3.2.5.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-context/3.2.5.RELEASE/jar/49e15abaaf9a6f6b7e3f1df8fdcb4b55f1a6ee70/spring-context-3.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-context/3.2.5.RELEASE/source/f9635f547d0c78b8d245ca33c7e6d10652c30036/spring-context-3.2.5.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.activation/activation/1.1/jar/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.activation/activation/1.1/source/3697e9f67a2ed7ac5f589cff30f21173299440/activation-1.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.mail/mail/1.4/jar/1aa1579ae5ecd41920c4f355b0a9ef40b68315dd/mail-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.mail/mail/1.4/source/fdd508f19a5075196138c94b341120e917c10e8a/mail-1.4-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/wsdl4j/wsdl4j/1.6.1/jar/9e9cee064ec2c9c01e0cd6b8bffd1a7013d81f65/wsdl4j-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/wsdl4j/wsdl4j/1.6.1/source/a1b6a37d5c513582edfd7c7e4378411950440396/wsdl4j-1.6.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/xerces/xercesImpl/2.7.1/jar/815d652b79b71b7c82a71126d3d7ce8fc8bccdef/xercesImpl-2.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/jdom/jdom/1.0/jar/a2ac1cd690ab4c80defe7f9bce14d35934c35cec/jdom-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/jdom/jdom/1.0/source/662abe0196cf554d4d7374f5d6382034171b652c/jdom-1.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/xerces/xmlParserAPIs/2.6.2/jar/65acede1e5305bd2b92213d7b5761328c6f4fd9/xmlParserAPIs-2.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/jaxen/jaxen/1.1-beta-9/jar/18e8a67a731fb79e7d48b0ac1e14d79563e538e6/jaxen-1.1-beta-9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/jaxen/jaxen/1.1-beta-9/source/4d349d390a5398b9e5b6676fe9bc3dfd449c60bb/jaxen-1.1-beta-9-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/stax/stax-api/1.0.1/jar/49c100caf72d658aca8e58bd74a4ba90fa2b0d70/stax-api-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.woodstox/wstx-asl/3.2.0/jar/d3f0a8b8ff078de173f7294fd79d306a6dd9a999/wstx-asl-3.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/junit/junit/3.8.1/jar/99129f16442844f6a4a11ae22fbbee40b14d774f/junit-3.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/junit/junit/3.8.1/source/525753763e53f6f76da052b316d0f2e3bfa4d73/junit-3.8.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-httpclient/commons-httpclient/3.0/jar/336a280d178bb957e5233189f0f32e067366c4e5/commons-httpclient-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-httpclient/commons-httpclient/3.0/source/37a167672b418ca4e37dea551a42be1d2086e585/commons-httpclient-3.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-core/1.2.6/jar/aae2eb94064f530852cd903fbf7e99f5a668cb64/xfire-core-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-core/1.2.6/source/ebf386736b91f7e734289d5cf877dcd1434f6c6a/xfire-core-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/net.java.dev.stax-utils/stax-utils/20040917/jar/c027f388675ff67f1c46eeb7d37fcb8ab568192a/stax-utils-20040917.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-aegis/1.2.6/jar/9e6c613136de54fed349e8f6332eb3b30e32f091/xfire-aegis-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-aegis/1.2.6/source/d6f975587a8abc02803d67a1b71192674367344e/xfire-aegis-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/jmock/jmock/1.0.1/jar/87a39d1a62ea94be5453ecdbb97cd81c978622d3/jmock-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/jmock/jmock/1.0.1/source/cd50de7b18fa6e1cf5c06c1a5b782e6c6f6ea6e9/jmock-1.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/xfire/opensaml/1.0.1/jar/7d7a17cb8b77810a59f168c255bb8eb7f5eb0dfe/opensaml-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/bouncycastle/bcprov-jdk15/133/jar/1769f13b67c16fa9157abd9daba847cd57c406c/bcprov-jdk15-133.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/xml-apis/xml-apis/1.0.b2/jar/3136ca936f64c9d68529f048c2618bd356bf85c9/xml-apis-1.0.b2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/xml-apis/xml-apis/1.0.b2/source/d8525661c5a0a05702fa41873d250d135031ec25/xml-apis-1.0.b2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/xml-security/xmlsec/1.3.0/jar/59c4b71e0a5871f26db91eaab236e5b9bf41122e/xmlsec-1.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/wss4j/wss4j/1.5.1/jar/3b208d7bf23aeed597a81c3728665126ebbf7dff/wss4j-1.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-discovery/commons-discovery/0.2/jar/7773ac7a7248f08ed2b8d297c6e2ef28260640ea/commons-discovery-0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-discovery/commons-discovery/0.2/source/3d981a9a1b2108e4463d087bd3993c6fc9dab453/commons-discovery-0.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-ws-security/1.2.6/jar/697cccb0373cccb9c320fe5373a1a0b9a99cdc3c/xfire-ws-security-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-ws-security/1.2.6/source/4d23cdd038e2f700141f7090b1292c574fa8e666/xfire-ws-security-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-beanutils/commons-beanutils/1.7.0/jar/5675fd96b29656504b86029551973d60fb41339b/commons-beanutils-1.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-beanutils/commons-beanutils/1.7.0/source/b68c4fc66026e8c08df7fb57c7dc1e94a6ed8cbb/commons-beanutils-1.7.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/qdox/qdox/1.5/jar/4d2db265eddf1576cb9d896abc90c7ba46b48d87/qdox-1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/qdox/qdox/1.5/source/5ea2b0cbbee49197372893d7b830a339b3573510/qdox-1.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/ant/ant/1.5.2/jar/c231486ae0dd86cd17acf6ada58dcb7f5860a1e4/ant-1.5.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-attributes/commons-attributes-api/2.1/jar/bd9c2942a1d3e7ed4dd142953bc6c1309697fab0/commons-attributes-api-2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-attributes/commons-attributes-api/2.1/source/1c44b4ed0542ad1857aab16d65c7c1a3c9c4795d/commons-attributes-api-2.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-annotations/1.2.6/jar/eddeb7095047dc80840ad11ba05e778be7c95906/xfire-annotations-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-annotations/1.2.6/source/13f5a38145f78bc6155681cf400e728c9de950ee/xfire-annotations-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/xfire/xfire-jsr181-api/1.0-M1/jar/84131056cc41494b9f47f4d2852038e78f0df96c/xfire-jsr181-api-1.0-M1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-java5/1.2.6/jar/7221f7ce7f4d91567d2dae6d33802159bbf268ab/xfire-java5-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-java5/1.2.6/source/eed3fbf22ae7275cbe9f01a223de9704331927c2/xfire-java5-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/xmlbeans/xbean/2.2.0/jar/8ab0ff5ac470a0296baa17550180c475fd86065a/xbean-2.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-xmlbeans/1.2.6/jar/b2a535d7654b92a7be2f9dd8d6666e04c25eb704/xfire-xmlbeans-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-xmlbeans/1.2.6/source/16b9df3cb8cf2325b21c58c879df604d35611e6f/xfire-xmlbeans-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/oro/oro/2.0.8/jar/5592374f834645c4ae250f4c9fbb314c9369d698/oro-2.0.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/oro/oro/2.0.8/source/3598e790ecd76ff7eb249853d4d00822ae1a5e71/oro-2.0.8-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/xdoclet/xjavadoc/1.1/jar/71af80dff97c3b2e6fa34f2adfb896c8a0087eaf/xjavadoc-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-lang/commons-lang/2.1/jar/4763ecc9d78781c915c07eb03e90572c7ff04205/commons-lang-2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/commons-lang/commons-lang/2.1/source/8bd7257fc98610b6082c6798f530318d5be8852a/commons-lang-2.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/ehcache/ehcache/1.1/jar/c781c87c2eb4e062a473822486cca46cd785b24a/ehcache-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/ehcache/ehcache/1.1/source/1f3b252cc975eda5a637814087edfca42fc68bc4/ehcache-1.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/quartz/quartz/1.5.1/jar/d70f65b032d6980e62c268032807cabfa12bb344/quartz-1.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/quartz/quartz/1.5.1/source/4166250a0c46690dca7af000cd37748eb88e5c9e/quartz-1.5.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/com.servlets/cos/05Nov2002/jar/ae8a47c62f20d55ab3965ddd50fe0d127291e2b4/cos-05Nov2002.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/com.servlets/cos/05Nov2002/source/f581ab365602fbd8d596b5ee47ee7693b312d4f2/cos-05Nov2002-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.servlet/jstl/1.0/jar/9c581de633e94be1e7a955bd4e8292f16e554387/jstl-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/taglibs/standard/1.0.6/jar/72b2dab3d9723943f6f6839ef84ccc25a087e5fa/standard-1.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/taglibs/standard/1.0.6/source/69c446491247f77214fdd921d4d946be91770bb9/standard-1.0.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring/1.2.6/jar/74522da3f856176159fa3942aba27e510104775a/spring-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring/1.2.6/source/dadccba3133abd3823c646de4a8c7ca0b780e592/spring-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.apache.xbean/xbean-spring/2.8/jar/9d8a1605cc780c635fc8391b237ba0f9f1696bf4/xbean-spring-2.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.apache.xbean/xbean-spring/2.8/source/2efc265ef1b739cf7c8b5fec45963c32cc72584b/xbean-spring-2.8-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-spring/1.2.6/jar/5f019cdf153feae81a6973ae606370efa44e736f/xfire-spring-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-spring/1.2.6/source/82eae4edc87a77fa2f326247b4dfad1f7d3f04bc/xfire-spring-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.xml.bind/jsr173_api/1.0/jar/c79b8431c3104315c0aeaed7bf23d0ab0edbaa09/jsr173_api-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.xml.bind/jaxb-api/2.0/jar/8f3984d8c693f58e815b2d50f5d213d8e6b58495/jaxb-api-2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.xml/jaxb-api/2.0/source/5f548f0d1cfa55a0b479e0a6facd50b268bdf464/jaxb-api-2.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.xml.ws/jaxws-api/2.0/jar/c1fb6e3b317fc7548e33de7677d3639989e4cf0a/jaxws-api-2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/com.sun.xml.bind/jaxb-impl/2.0.1/jar/9910b3af5872957fd420eb70042c5ae956b6821f/jaxb-impl-2.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/com.sun.xml.bind/jaxb-xjc/2.0.1/jar/7d1fcf6a8a6624b803115fadf3ce051d078f363/jaxb-xjc-2.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-jaxb2/1.2.6/jar/2a98945a94af070d6331c01c2e0a198636b405d2/xfire-jaxb2-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-jaxb2/1.2.6/source/d390bd42df10905d2ddaeb85bcfc6ecee1bd72ad/xfire-jaxb2-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-generator/1.2.6/jar/297244ba0002f5a71c3bfdfceecaa2eac209db13/xfire-generator-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-generator/1.2.6/source/d94454cbdba42bbac9a3840906d45f8afd62bf54/xfire-generator-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.xml.soap/saaj-api/1.3/jar/4e0c860c1bf18b54ccb10a3c7ab2e4d61452faff/saaj-api-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.xml.soap/saaj-api/1.3/source/ee6d8ff500f9ef608f2f206ed01df3e6f4999d5e/saaj-api-1.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/com.sun.xml.messaging.saaj/saaj-impl/1.3/jar/74c8352d9f4ebc8b835356d9ca6e841c19d36175/saaj-impl-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/com.sun.xml.messaging.saaj/saaj-impl/1.3/source/dd0efa61af41030829377b90c2e19f072ad9e6af/saaj-impl-1.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-jaxws/1.2.6/jar/308d7ce1d83da108ba6946b7a0b024b3a769d55/xfire-jaxws-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.codehaus.xfire/xfire-jaxws/1.2.6/source/557886b943e4bd61208ec4d7754de53f2859aba4/xfire-jaxws-1.2.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/unresolved dependency - org.apache.ws.commons XmlSchema 1.1" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/junit/junit/4.8/jar/4150c00c5706306ef0f8f1410e70c8ff12757922/junit-4.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/junit/junit/4.8/source/abe171e0fc1242d1fe10e8dc43bce031e3f65560/junit-4.8-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-test/3.2.5.RELEASE/jar/7c043dcf7e6f330df0def14a43dd6bba69108c8d/spring-test-3.2.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-test/3.2.5.RELEASE/source/585231cefd601a2511e764921681e7bde87515be/spring-test-3.2.5.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
